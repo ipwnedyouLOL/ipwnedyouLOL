@@ -17,9 +17,9 @@
 
 > And I'll be brighter than the city's book-powered fires.
 
-<!-- stamp -->
+<!-- stamp and border again yay -->
 
-<img width="671" height="335" alt="Untitled124_20250811213802" src="https://github.com/user-attachments/assets/acaf72b6-f7a2-4b26-8e81-db5bbf6acd5a" />
+<img width="671" height="335" alt="Untitled124_20250811214452" src="https://github.com/user-attachments/assets/028c03fa-be6a-47d2-ad0a-f3342ed3ce9a" />
 
 <!-- header bottom1 -->
 
