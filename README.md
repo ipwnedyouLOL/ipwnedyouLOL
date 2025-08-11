@@ -13,7 +13,7 @@
 
 <!-- link -->
 
-### [🎰⠀⠀.⠀⠀archive of widom](https://pwner555lol.atabook.org)
+### [🎰⠀⠀.⠀⠀archive of wisdom](https://pwner555lol.atabook.org)
 <!-- quote poems of a machine -->
 
 > Re-experiment, only this time I'll play nice.
@@ -22,7 +22,7 @@
 
 <!-- stamp and border again yay -->
 
-<img width="671" height="335" alt="Untitled124_20250811214452" src="https://github.com/user-attachments/assets/028c03fa-be6a-47d2-ad0a-f3342ed3ce9a" />
+<img width="671" height="335" alt="Untitled124_20250811214452" src="https://github.com/user-attachments/assets/4a2d5d57-c54b-4f1b-832b-73b8f8813aec" />
 
 <!-- header bottom1 -->
 
