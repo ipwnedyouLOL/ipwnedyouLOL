@@ -7,8 +7,9 @@
 <img width="1080" height="512" alt="Untitled117_20250811201636" src="https://github.com/user-attachments/assets/f5bb485f-46fc-40ca-9339-4b03a8f238f3" />
 
 <!-- spotify -->
+---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ki4hdyq3upfjrzaeiekl5pkm7e&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ki4hdyq3upfjrzaeiekl5pkm7e&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=8c825b&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)
 
 <!-- quote poems of a machine -->
 
@@ -16,6 +17,12 @@
 
 > And I'll be brighter than the city's book-powered fires.
 
+<!-- stamp -->
+
+<img width="671" height="335" alt="Untitled124_20250811213802" src="https://github.com/user-attachments/assets/acaf72b6-f7a2-4b26-8e81-db5bbf6acd5a" />
+
 <!-- header bottom1 -->
+
+---
 
 <img width="635" height="325" alt="Untitled120_20250811210405" src="https://github.com/user-attachments/assets/dfb36843-486e-4bf5-a4dc-7575844d7081" />
